@@ -3,6 +3,8 @@ Este juego lo arme para probar la matriz de 8x8 leds controlada con dos 4094 con
 El juego consiste en evitar que los ateroides (un led) coche la nave (3 leds en  la parte inferior de la matriz), puede dispara para destruirlos los asteroides.
 Con dos botones uno para la derecha y otro la izquierda, con los dos juntos dispara.
 
+[Demo en YouTube](https://youtu.be/ICSA59mwf84)
+
 # Código Anti-Rebote o Debounce.
 Es para evitar que al tener presionado el botón la nave se mueva más de un lugar.
 
